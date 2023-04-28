@@ -1,0 +1,38 @@
+.banner-clr {
+  background-color: #264653;
+}
+.btn-clr {
+  background-color: #e76f51;
+}
+.spacial-clr {
+  color: #e76f51;
+}
+.bike-grayscale {
+  filter: grayscale(100%);
+}
+
+.login-btn {
+  background-color: #e76f51;
+}
+.sime-icon {
+  color: #ffcc33;
+}
+.youtube-clr {
+  color: #f70000;
+}
+footer {
+  color: white;
+  background-color: black;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-top: 50px;
+  width: 100%;
+}
+.icon {
+  color: white;
+}
+.fot-icon {
+  font-size: 25px;
+  padding-left: 10px;
+  color: #f70000;
+}
